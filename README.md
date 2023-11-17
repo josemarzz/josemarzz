@@ -5,5 +5,5 @@
 </head>
 <body><h1>free fire</h1>
 <p>link vai te direcionar para o site onde você ira conseguir recarregar </p>
-<p><br>recargajogo.com.br</br></p>
+<p>recargajogo.com.br</p>
 </body>
