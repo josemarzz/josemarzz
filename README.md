@@ -2,7 +2,7 @@
   <html lang="pt-br">
   <head>
     <meta charset="utf-8">
-    <title>COMPRE DIAMANTES</title>
+    <title> COMPRE DIAMANTES </title>
     <link rel="stylesheet" href="style.css">
 
   </head>
